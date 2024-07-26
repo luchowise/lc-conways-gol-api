@@ -1,0 +1,15 @@
+﻿/.vs
+/Lc.MicroService.ConwayGoL/bin
+/Lc.MicroService.ConwayGoL/obj
+/Lc.MicroService.ConwayGoL.Factories/bin
+/Lc.MicroService.ConwayGoL.Factories/obj
+/Lc.MicroService.ConwayGoL.Models/bin
+/Lc.MicroService.ConwayGoL.Models/obj
+/Lc.MicroService.ConwayGoL.Persistence/bin
+/Lc.MicroService.ConwayGoL.Persistence/obj
+/Lc.MicroService.ConwayGoL.Services/bin
+/Lc.MicroService.ConwayGoL.Services/obj
+/Lc.MicroService.ConwayGoL.Tests/bin
+/Lc.MicroService.ConwayGoL.Tests/obj
+/Lc.MicroService.ConwayGoL.Utils/obj
+/Lc.MicroService.ConwayGoL/Lc.MicroService.ConwayGoL.csproj.user
